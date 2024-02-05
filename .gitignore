@@ -1,0 +1,8 @@
+.DS_Store
+src/go.sum
+src/go.mod
+databases
+/*.sql
+ipip_v4.ipdb
+*_test.go
+.idea
